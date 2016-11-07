@@ -27,4 +27,4 @@ Guidelines
  * The level of detail is expanded beyond the scope of the monochrome theme, but favors gradients instead of a flat design.
 
 ### Export
-The SVG and PNG files can be created using the ImageMagick Mogrify command and Kivutar’s convert.sh script.
+The SVG and PNG files can be created using the ImageMagick Mogrify command.
