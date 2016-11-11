@@ -1,16 +1,20 @@
-RetroActive Themes for RetroArch & Lakka
+RetroActive Marked Alternative Icon Set
 ====================
 
-About RetroActive
+About RetroActive Marked Icons
 -----------------
 
-The initial motivation was to complete the flatui icons by coloring those in the monochrome set, it ended up becoming much more. Every icon has been redrawn and adjusted, and new icons have been added to better complete the set. A translucent white border has been added to ensure they always look great on a dark or light background.
+The RetroActive Marked icons were my original vision of what the RetroActive theme was supposed to be.  While the initial motivation was to complete the flatui icons by coloring those in the monochrome set, it ended up becoming much more. Every icon was redrawn and adjusted, and new icons have been added to better complete the set. A translucent white border has been added to ensure they always look great on a dark or light background.
 
-### Clean Theme
+As I was testing these icons, it became clear that that the Libretro XMB downscaling effect made the logos much less recogizable than desired.  Therefore I developed the "Clean" versions of these icons, which went on to become the "RetroActive" theme.  This icon set can now be considered an alternate icon set for the main theme.  
+
+PLEASE NOTE: As new icons are developed for the main RetroActive theme, I have not been creating a new "Marked" version of the icon for this set.  If someone wants to take the clean icons and add logos for the newer icons for this set, please feel free to do so.
+
+### Main Retroactive Theme with Clean Icons
 
  * Clean icons do not have logos of any type and best embody the spirit of the original flatui and monochrome themes. In some cases, media label styles have been left in place to increase recognizability. An effort was also made to color-coordinate the label with the system when possible. Unbranded core system-level icons can only be found in this set. In order to complete the theme, ported game and system-level icons still have branding.  
 
-### Marked Theme
+### Marked Alternative Icon Set
 
  * Marked icons contain logos to represent the emulator core and stand-alone application projects. They also contain parody logos for the systems they represent. The labels are designed to mimic the style of the original system while highlighting the adaptive abilities of the Libretro project.  In some cases, the labels vary drastically by region, so multiple icons have been created.
 
@@ -38,4 +42,4 @@ Guidelines
 
 ### Export
 
-The SVG and PNG files can be created using the ImageMagick Mogrify command and Kivutar’s convert.sh script.
+ * The original source files were created with Adobe Illustrator and saved as PDF files. The SVG and PNG files can be created using the ImageMagick Mogrify command.
