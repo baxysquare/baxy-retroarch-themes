@@ -1,4 +1,4 @@
-# baxy-retroarch-themes
+# BAXY Themes for Libretro/Lakka/RetroArch
 The folllowing files are the complete archive of the themes created for the Libretro project that end up in the Lakka OS and RetroArch App.
 # NeoActive
 NeoActive applies a subtle grayscale gradient toward the white end of the spectrum.  It is meant to blend the strengths of Kivutar's Monochrome theme and the RetroActive theme. 
