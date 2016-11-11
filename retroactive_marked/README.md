@@ -4,11 +4,11 @@ RetroActive Marked Alternative Icon Set
 About RetroActive Marked Icons
 -----------------
 
-The RetroActive Marked icons were my original vision of what the RetroActive theme was supposed to be.  While the initial motivation was to complete the flatui icons by coloring those in the monochrome set, it ended up becoming much more. Every icon was redrawn and adjusted, and new icons have been added to better complete the set. A translucent white border has been added to ensure they always look great on a dark or light background.
+The RetroActive Marked icons were the original vision of what the RetroActive theme was supposed to be.  While the initial motivation was to complete the flatui icons by coloring those in the monochrome set, it ended up becoming much more. Every icon was redrawn and adjusted, and new icons have been added to better complete the set. A translucent white border has been added to ensure they always look great on a dark or light background.
 
-As I was testing these icons, it became clear that that the Libretro XMB downscaling effect made the logos much less recogizable than desired.  Therefore I developed the "Clean" versions of these icons, which went on to become the "RetroActive" theme.  This icon set can now be considered an alternate icon set for the main theme.  
+As these icons were tested, it became clear that that the Libretro XMB downscaling effect made the logos much less recognizable than desired.  Therefore the "Clean" versions of these icons were developed and become the "RetroActive" theme.  This icon set can now be considered alternate icons for the main theme.  
 
-PLEASE NOTE: As new icons are developed for the main RetroActive theme, I have not been creating a new "Marked" version of the icon for this set.  If someone wants to take the clean icons and add logos for the newer icons for this set, please feel free to do so.
+PLEASE NOTE: As new icons are developed for the main RetroActive theme, a new "Marked" version of the icon for this set was not created.  If someone wants to take the clean icons and add logos for the newer icons for this set, please feel free to do so.
 
 ### Main Retroactive Theme with Clean Icons
 
