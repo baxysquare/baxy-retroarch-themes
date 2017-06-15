@@ -9,4 +9,4 @@ RetroActive Marked was designed to give users an alternative to Kivutar's Monoch
 # Systematic Theme
 Most Libretro themes use a controller to represent the system at the top level of the XMB. The Systematic theme uses a top-down system icon to represent every system in order to bring consistency to the design.  It contains a multitude of alternative system icons as well.
 # Licenses
-BAXY Themes are licensed under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>. These themes use the <a href="https://fonts.google.com/specimen/Metrophobic">Metrophobic</a> typeface by <a href="http://sansoxygen.com/">Vernon Adams</a> covered under the <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web">Open Font License</a>.
+BAXY Themes are licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. These themes use the <a href="https://fonts.google.com/specimen/Metrophobic">Metrophobic</a> typeface by <a href="http://sansoxygen.com/">Vernon Adams</a> covered under the <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web">Open Font License</a>.
