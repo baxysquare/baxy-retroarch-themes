@@ -47,12 +47,12 @@ This theme follows the naming syntax demonstrated by the Monochromatic theme.  I
  * W = White
  * Y = Yellow
  * T = Tower or Vertical Configuration
- * (As)
- * (B)
+ * (As) = Asia
+ * (B) = Brazil
  * (E) = Europe
  * (J) = Japan
  * (U) = United States
- * (W) = World)
+ * (W) = World
 
 
 Colophon
