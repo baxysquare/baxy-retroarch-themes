@@ -1,32 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAQAAAD2e2DtAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZ
-cwAAAEgAAABIAEbJaz4AAAAHdElNRQfhBxkQLwXwrckQAAAE4UlEQVR42u3cMVITURzH8Re1oZFx
-hrHgEjTewI470NpwCIcL0NnY5gqMHTfQa6RgbLDJMAzEQjKGsBtx92V/S77fT+MYTSD/991Nsm9g
-sigie5X+BpRlAHAGAPem6x0nj/622Csn5TD9ZEBmZTqZr97Q9b1clTOAyz+4w3Ky2KvxQBUCcPkj
-KiXQOwCXP6ZKAj0DcPmjKiTQKwCXP653Aj0CcPlHoWcCk86Xgl3+8ZiVaZl3u2v3AD41Lf/x6dVB
-ehq77f3Pb18abp6Vr90er/tLgMsfcXVwfNpwc+dzccVLwS7/MFoS6KhaAC7/cGom0HkvYN3Nwf7G
-f79uvPWu/Kr1DbxQb8vrxts3T/Om2sEW3g28zX75EUhPIBzAffjp56Un4BkgLD2BaACLeP959513
-8uuIBpCufxyyU4gGcBd96mORnYIBxIED8CWglPQUggF4/C8lJxEMwON/KTmJYAB+BFxKTqLaXsDl
-2Z8/P3x+fHv7NW3PAEubJrG+h/L9rO7Xjp0BvAj0V/JiUCwAj/9VuWnEAvAzwKrcNKq9B/j48Nq/
-/8z/bwCr2qexPs/lnC8rvRfwJWAUcC8BHv/rUhMJBeDxvy41kVAAfgRcl5qIZ4CRQJ0BvAj0VOpi
-UCQAj/8mmalE9gL8DNCkeSo7uRdgAE0yU/ElYDQyUwkE4PHfJjGZwF6Ax3+b24afE9zBvQA/ArZJ
-TCYQgGeANonJDB6AF4HaJS4GDR6Ax/8mw09n8AD8DLDJ8NMxgFEBBOBLwCbDTyf4cwF6jp3cC9B4
-GACcAcDFfi5Az7ODewEaEwOAMwA4A4AzADgDgDMAOPcCRs69AG2VAcAZAJx7ASPnXoC2ygDgDADO
-AOAMAM4A4AwAzr2AkXMvQFtlAHAGADf4XsC79DN+YdwL0FYZAJwBwFV7D/AvXg8YJ88AcAYAZwBw
-BgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYA
-ZwBwBgBnAHAGAGcAcIP9foDr/g+BMtTvU/AMAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgDn7wqG
-8wwAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAG
-AGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBn
-AHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBw
-BgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYA
-ZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBXLYCjH+mn
-QlJv2tUCOL8wgaEc/Ti/qPVYFV8CTGAYNZe/TwCzpzeZwPa1LP/svx/owWTR9Z575aQcpsehUkop
-szIt82537XwGmMzLtHt3qmhWppOOy9/rPYAJjEKv5e/5JtAE4nouf+9PASYQ1Xv5K3wMNIGYCstf
-5TqACURUWf5KF4JMYHCVlr/PdQDtBHcD4QwAzgDgfgPQCd+cRe3XKQAAACV0RVh0ZGF0ZTpjcmVh
-dGUAMjAxNy0wNy0yNVQxNjo0NzowNS0wNjowMDUeYiMAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTct
-MDctMjVUMTY6NDc6MDUtMDY6MDBEQ9qfAAAAIHRFWHRwZGY6SGlSZXNCb3VuZGluZ0JveAAyNTZ4
-MjU2KzArMKs5tr8AAAAUdEVYdHBkZjpWZXJzaW9uAFBERi0xLjUNQINXTAAAAABJRU5ErkJggg==" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path24"
+         d="M 28,252 H 228 V 4 H 28 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22" /><g
+             id="g34"><g
+               style="opacity:0.5"
+               id="g32"
+               clip-path="url(#clipPath26)"><g
+                 id="g30"
+                 transform="translate(219.3135,252)"><path
+                   id="path28"
+                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   d="m 0,0 h -3.313 -176 -3.314 l -2.343,-2.343 -4,-4 -2.343,-2.344 V -12 v -12 -8 -4 -8 -4 -8 -4 -8 -4 -8 -156 -3.313 l 2.343,-2.344 4,-4 2.343,-2.343 h 3.314 176 H 0 l 2.344,2.343 4,4 2.343,2.344 v 3.313 156 8 4 8 4 8 4 8 4 8 12 3.313 l -2.343,2.344 -4,4 z" /></g></g></g></g></g></g><g
+       transform="translate(216,176)"
+       id="g36"><path
+         id="path38"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 v 4 h 4 v 8 H 0 v 4 h 4 v 8 H 0 v 4 h 4 v 8 H 0 v 4 h 4 v 8 H 0 v 4 h 4 v 12 l -4,4 h -176 l -4,-4 V 52 h 4 v -4 h -4 v -8 h 4 v -4 h -4 v -8 h 4 v -4 h -4 v -8 h 4 v -4 h -4 V 4 h 4 V 0 h -4 v -160 l 4,-4 H 0 l 4,4 V 0 Z" /></g><path
+       id="path40"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,224 h -8 v 4 h 8 z" /><path
+       id="path42"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,212 h -8 v 4 h 8 z" /><path
+       id="path44"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,200 h -8 v 4 h 8 z" /><path
+       id="path46"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,188 h -8 v 4 h 8 z" /><path
+       id="path48"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,176 h -8 v 4 h 8 z" /><path
+       id="path50"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 216,224 h -8 v 4 h 8 z" /><path
+       id="path52"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 216,212 h -8 v 4 h 8 z" /><path
+       id="path54"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 216,200 h -8 v 4 h 8 z" /><path
+       id="path56"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 216,188 h -8 v 4 h 8 z" /><path
+       id="path58"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 216,176 h -8 v 4 h 8 z" /><path
+       id="path60"
+       style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 204,128 H 52 v 12 h 152 z" /><g
+       transform="translate(216,244)"
+       id="g62"><path
+         id="path64"
+         style="fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h -176 l -4,-4 h 16 V -72 H -12 V -4 H 4 Z" /></g><g
+       transform="translate(192,240)"
+       id="g66"><path
+         id="path68"
+         style="fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 h -128 l -8,-36 V -64 H 8 v 28 z" /></g></g></svg>

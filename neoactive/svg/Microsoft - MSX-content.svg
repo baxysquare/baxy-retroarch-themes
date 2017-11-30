@@ -1,23 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAJ1BMVEX////l5ufi4+Tf4eLd
-3t/a3N3m5+j////Y2drV19jS1NX7+/v6+vqgGaNQAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgA
-AAAJcEhZcwAAAEgAAABIAEbJaz4AAAAHdElNRQfhARENCgeoWpW3AAACeElEQVR42u3cwW3bMBiG
-4aQuerY5ArmAAWoE5d6LAV0zRS8dQBpBGkELdL06luPGNFUqh59vgX7vSTrxwS/BpoNIT09KKaWU
-UkoppZRSSimllFLqX+mQz/l8IeZr2nwvp6R0/dcVwMr6fmX9uLJ+ezr9XfCt9gBOp+93gOfqA0gA
-9QeQXIN05R+mCSCAAJf1OxrQw4COBvQwoKMBfQJICdaAjgb0MKArAZwxoH8ApBshW0BXAjhjQF8C
-eBjgAMCNsH++bIUxwP68Q3c0wJOAtyME8H7/4YDzJfjyfwMO+8v64OfA9dcnBnA0wMMAhwHu7wAM
-4GiAhwEOBFwIHgY4GuBhgEMBh+SPogDA0QAPAxwN8DDA0QAvgAACCFAfMNCAEQYMNGCEAQMNGGHA
-QANGGDCUAMEYMJYA0RYwlADBGDCWABEGBBoQYUCgAREGBBoQYUCgAREGBBoQYUCgAREGBBoQYUCg
-AREGBBoQYUCgAREGBBoQYUCgAREGBBoQYUCgAVEAAQQQoD5gogFzHnDcVQJMecD7sT1gzgKOb8e7
-GoApD7idmAPmLOC4nOzsARMNmGHAtAK4nTXGgLkEaG0B01y4BI0xYC4BWhjwFQNcb4KWAxyvA8AA
-8ToADnD+Om5YwPXhaRDQ0IAWBjQ0oIUBDQ1oYUBDA1oY0NCAFgZ8eIPEL8v1f64BPvEKjeXp8XzL
-f4g8tuwE//QA+NQrNJaHp7OtrD/OJUDlATwAag/gAVB7ACmg+gBSQPUBJID6A0gA9QdwDwAGcA8A
-BrAJYDmATQDLAWwBmA5gC8B0ABsAtgPYALAdwD1AKaWUUkoppZRSSimllFJKcf0GcxRxnmdwoGcA
-AAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDEtMTdUMTM6MTA6MDctMDc6MDDdf2WzAAAAJXRFWHRk
-YXRlOm1vZGlmeQAyMDE3LTAxLTE3VDEzOjEwOjA3LTA3OjAwrCLdDwAAACB0RVh0cGRmOkhpUmVz
-Qm91bmRpbmdCb3gAMjU2eDI1NiswKzCrOba/AAAAFHRFWHRwZGY6VmVyc2lvbgBQREYtMS41DUCD
-V0wAAAAASUVORK5CYII=" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="M 18.874,205 C 15.078,205 12,201.756 12,197.753 v 0 V 188 h 4 v -4 h -4 v -4 h 4 v -4 h -4 v -4 h 4 v -4 h -4 v -4 h 4 v -4 H 12 V 51 h 232 v 146.753 c 0,4.003 -3.077,7.247 -6.874,7.247 v 0 z M 28,176 c 0,2.209 1.791,4 4,4 v 0 c 2.209,0 4,-1.791 4,-4 v 0 c 0,-2.209 -1.791,-4 -4,-4 v 0 c -2.209,0 -4,1.791 -4,4 M 24,88 c 0,4.418 3.581,8 8,8 v 0 c 4.419,0 8,-3.582 8,-8 v 0 c 0,-4.418 -3.581,-8 -8,-8 v 0 c -4.419,0 -8,3.582 -8,8" /></clipPath><linearGradient
+       id="linearGradient28"
+       spreadMethod="pad"
+       gradientTransform="matrix(190.93375,-190.93375,-190.93375,-190.93375,32.533173,221.40065)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop24"
+         offset="0"
+         style="stop-opacity:1;stop-color:#e6e7e8" /><stop
+         id="stop26"
+         offset="1"
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
+       id="clipPath38"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path36"
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22"><path
+               id="path30"
+               style="fill:url(#linearGradient28);stroke:none"
+               d="M 18.874,205 C 15.078,205 12,201.756 12,197.753 v 0 V 188 h 4 v -4 h -4 v -4 h 4 v -4 h -4 v -4 h 4 v -4 h -4 v -4 h 4 v -4 H 12 V 51 h 232 v 146.753 c 0,4.003 -3.077,7.247 -6.874,7.247 v 0 z M 28,176 c 0,2.209 1.791,4 4,4 v 0 c 2.209,0 4,-1.791 4,-4 v 0 c 0,-2.209 -1.791,-4 -4,-4 v 0 c -2.209,0 -4,1.791 -4,4 M 24,88 c 0,4.418 3.581,8 8,8 v 0 c 4.419,0 8,-3.582 8,-8 v 0 c 0,-4.418 -3.581,-8 -8,-8 v 0 c -4.419,0 -8,3.582 -8,8" /></g></g></g></g><g
+       id="g32"><g
+         clip-path="url(#clipPath38)"
+         id="g34"><g
+           transform="translate(231,68)"
+           id="g40"><path
+             id="path42"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -186 c -0.552,0 -1,0.448 -1,1 V 132 H 1 V 1 C 1,0.448 0.552,0 0,0" /></g></g></g></g></svg>

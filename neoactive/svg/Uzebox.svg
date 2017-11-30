@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAJ1BMVEX////m5+jl5ufi4+Sp
-qand3t/a3N3Y2drf4eLV19j////S1NXR09RwusG/AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgA
-AAAJcEhZcwAAAEgAAABIAEbJaz4AAAAHdElNRQfhARENChOygEHKAAAEB0lEQVR42u3bsY0bMRQE
-0HPgBlyCtwQmKsAtkLEjqoQFCyCwLRDswC3QgUszfA5OOu3w76cG1AZ/8tM+zP1ZKNHbm8VisVgs
-FovFYrFYLBaLxfKeL99RFvc/P5TxewnxIz/vAN8gwDEB8TZ3ALEACiAMABwTEPWAhQkIAwDHBEQ9
-YGECwgDAMQFRD1iYgDAAcExA1AMWJiAMABwTEPWAhQkIAwDHBEQ9YGECwgDAMQFRAmg/nhEDnAsg
-TOC5I9ybgLQCxwREPWBhAsIAwDEB8QiAd1rHY4BzAYQJjB8hmkCMVwhwTAB8flwRYGECOgVAgGMC
-OgWs5zpCA7wcIExg7Ah7E1jX/RU4JqA3AQDABVz0AKGAXQAuYNMDhALsPWCAx/dAZwLbpj5CYQJ7
-K+hMgAlYEaBfAA1whYB+ATTAug/gndbxGOBcAGECrCP8mMDnIxQmwAKsesCFCbgOADYmYMUA3mkd
-jwHOBRAmwDjC+wkcW8HGBKx6wIUJuA4ANiZg7QN4p3U8BjgXQJjAs0f4OAF5BRsTsOoBFybgOgDY
-mIBVBvBO63gMcC6AMIFnjnB/Av0VbEzAqgdcmIDrAGBjAuDz07mO0AAvBwgTGD1CPIFSCgBsTACe
-AARcmIBuAQCwMQHdAsq5jtAALwcIE9i81368MIH9FcDn5wFAfwK7gF4BaoBYwA6gV4AaIBbwCOgW
-wAMUCOgWQAMkCOgXQAMUCOgXwAIkCBAKYAEKBAgFkAAJAqQCSIACAVIBHECCALEADqBAgFgABZAG
-AJ4JKHpAZgLSAMAzAUUPyExAGgB4JqDoAZkJSAMAzwQUPSAzAWkA4JmAogdkJiANADwTUPSAzASk
-AYBnAooekJmANADwTEDRAzITkAYAngkoekBmAtIAwDMBRQ/ITEAaAHgQ7T+/V0APkJmANAD496xf
-OzkG2PtLHSC/GuARIMwBZAiITECFAD8H0BAgzwFUCPBzAA0B8hxAhQA/B9AQIM8BVAjwcwANAfIc
-QIUAPwfQECDPAVQI8HMADQHyHECFAD8H0BAgzwFUCPBzAA0B8hxAhQD0TfTmZ3OHAN2vwh8FPADg
-V+Gbn80dBiT4/AoBQgFHnn0bsYDPAKkAEqBCgHQBJEBDAPECOIAKAeIEOICGAPIEKIAKAfI7gAJo
-eoDqFSABqh6gewlKgKYH6F6CAqDqAYEKaHpAZAKqHhCogKYHRCag6gGBCmh6QGQCqh4QqICmB0Qm
-oOoBgQpoekBkAqoeEKiApgdEJqDqAYEKaHpAZAKqHhCogKYHRCag6gGBCmh6QGQCqh4QqICmB0Qm
-oOoBgQpoekBkAqoeEKgA+Pzfd4CvUgGjAFzAnzeLxWKxWCwWi8VisVgsFovlPX8B1IWRY/6xnUEA
-AAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDEtMTdUMTM6MTA6MTktMDc6MDBB6h5wAAAAJXRFWHRk
-YXRlOm1vZGlmeQAyMDE3LTAxLTE3VDEzOjEwOjE5LTA3OjAwMLemzAAAACB0RVh0cGRmOkhpUmVz
-Qm91bmRpbmdCb3gAMjU2eDI1NiswKzCrOba/AAAAFHRFWHRwZGY6VmVyc2lvbgBQREYtMS41DUCD
-V0wAAAAASUVORK5CYII=" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="m 16,220 c -2.209,0 -4,-1.79 -4,-4 v 0 -176 c 0,-2.209 1.791,-4 4,-4 v 0 h 224 c 2.209,0 4,1.791 4,4 v 0 176 c 0,2.21 -1.791,4 -4,4 v 0 z" /></clipPath><linearGradient
+       id="linearGradient28"
+       spreadMethod="pad"
+       gradientTransform="matrix(205.65685,-205.65685,-205.65685,-205.65685,25.171574,230.82843)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop24"
+         offset="0"
+         style="stop-opacity:1;stop-color:#e6e7e8" /><stop
+         id="stop26"
+         offset="1"
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient><clipPath
+       id="clipPath38"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path36"
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22"><path
+               id="path30"
+               style="fill:url(#linearGradient28);stroke:none"
+               d="m 16,220 c -2.209,0 -4,-1.79 -4,-4 v 0 -176 c 0,-2.209 1.791,-4 4,-4 v 0 h 224 c 2.209,0 4,1.791 4,4 v 0 176 c 0,2.21 -1.791,4 -4,4 v 0 z" /></g></g></g></g><g
+       id="g32"><g
+         clip-path="url(#clipPath38)"
+         id="g34"><path
+           id="path40"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,200 H 12 v 4 h 232 z" /><path
+           id="path42"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,192 H 12 v 4 h 232 z" /><path
+           id="path44"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,184 H 12 v 4 h 232 z" /><path
+           id="path46"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,176 H 12 v 4 h 232 z" /><path
+           id="path48"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,168 H 12 v 4 h 232 z" /><path
+           id="path50"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,160 H 12 v 4 h 232 z" /><path
+           id="path52"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,152 H 12 v 4 h 232 z" /><path
+           id="path54"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,144 H 12 v 4 h 232 z" /><path
+           id="path56"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,136 H 12 v 4 h 232 z" /><path
+           id="path58"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 244,128 H 12 v 4 h 232 z" /><path
+           id="path60"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 88,72 H 48 v 20 h 40 z" /><path
+           id="path62"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 204,72 h -40 v 20 h 40 z" /><g
+           transform="translate(164,70)"
+           id="g64"><path
+             id="path66"
+             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -2 v 2 20 2 H 0 12 V 150 H -84 V 24 h 8 2 V 22 2 0 h -2 -8 V -34 H 12 V 0 Z" /></g></g></g></g></svg>

@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAJFBMVEX////m5+jl5ufi4+Tf
-4eLd3t/a3N3Y2drV19jS1NXR09T///8qcQR+AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJ
-cEhZcwAAAEgAAABIAEbJaz4AAAAHdElNRQfhARENCiOUWXFmAAACFklEQVR42u3YIXLbQACFYXUK
-WtwTdJQjSAcoWPGQNS7a0DAVFsrM1EU9apV1pH2WTAL0dqbzf8hs/3meJJttGgAAAAAAAAAAAAAA
-AAAAAAAAgA/61Lbf3z923Y8KAd/atr19+tz1oUJBuwZ0XQihakA/B/gnkIAQakxQAvocMNQLyOeH
-+OwPeJKAIUZ/QCcBMboL5gEkYHgLeDYHdBIQo32CeYASkAeIp5/WgE4CbgOk5Cx4koD3AVJKxoBO
-ApYBrBNIQBnAOYEElAFSGisE6AAv46s/4G6A0TbBfH4vAcsAvoI5IEjAOsDo+hLmASRABhh/uQKC
-BMgA4/TbE9BLwN0Ak6egXIW3A8wcAb0EbAbwTBAkYDvANF2sAbsBpvPVGrAf4Ho9foIS8GiA6/ET
-lIBHA3gCBgnYDmAJiBKwHcARMEjAbgBHQJSA3QB/jg8YJGA/wN/jA6IEVBgg3wSXgBoDNFECdgNc
-jj9fAyr8CNwHVBlAAnYDWM6XAP8vwSXgJAH2AfJNUALsA+SbYAlw/hlcA5IElAEutoCTBFQYIN8E
-1wDjRWh1koAywMUXkCSgxgAaUGUADVgHcJ4vAcb/BR4H1Bkg3wQlwD5AU94ElwG85+ebYAk4u7+A
-202wBPgHyDfBNeDsP78pj6Km94CtFwmoMUBTHmW/Vhmg+VLeZM81zgcAAAAAAAAAAAAAAAAAAAAA
-AP+ff/5C2hfNIgKgAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTAxLTE3VDEzOjEwOjM1LTA3OjAw
-xG9zeQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wMS0xN1QxMzoxMDozNS0wNzowMLUyy8UAAAAg
-dEVYdHBkZjpIaVJlc0JvdW5kaW5nQm94ADI1NngyNTYrMCswqzm2vwAAABR0RVh0cGRmOlZlcnNp
-b24AUERGLTEuNQ1Ag1dMAAAAAElFTkSuQmCC" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="M 116.016,155.528 C 116.012,155.508 116,155.492 116,155.472 v 0 -54.932 c 0,-2.508 2.032,-4.54 4.54,-4.54 v 0 c 0.752,0 1.456,0.184 2.084,0.504 v 0 c 0.74,0.38 31.748,25.08 34.728,27.064 v 0 c 1.656,1.104 2.648,2.768 2.648,4.432 v 0 c 0,1.664 -0.996,3.332 -2.66,4.44 v 0 c -2.98,1.988 -33.984,26.676 -34.72,27.056 v 0 c -0.624,0.32 -1.332,0.504 -2.08,0.504 v 0 c -2.484,0 -4.488,-1.996 -4.524,-4.472 M 96,156 v -56 c 0,-2.212 1.788,-4 4,-4 v 0 c 2.212,0 4,1.788 4,4 v 0 56 c 0,2.212 -1.788,4 -4,4 v 0 c -2.212,0 -4,-1.788 -4,-4" /></clipPath><linearGradient
+       id="linearGradient28"
+       spreadMethod="pad"
+       gradientTransform="matrix(47.816227,-47.816227,-47.816227,-47.816227,90.248665,151.90765)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop24"
+         offset="0"
+         style="stop-opacity:1;stop-color:#e6e7e8" /><stop
+         id="stop26"
+         offset="1"
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22"><path
+               id="path30"
+               style="fill:url(#linearGradient28);stroke:none"
+               d="M 116.016,155.528 C 116.012,155.508 116,155.492 116,155.472 v 0 -54.932 c 0,-2.508 2.032,-4.54 4.54,-4.54 v 0 c 0.752,0 1.456,0.184 2.084,0.504 v 0 c 0.74,0.38 31.748,25.08 34.728,27.064 v 0 c 1.656,1.104 2.648,2.768 2.648,4.432 v 0 c 0,1.664 -0.996,3.332 -2.66,4.44 v 0 c -2.98,1.988 -33.984,26.676 -34.72,27.056 v 0 c -0.624,0.32 -1.332,0.504 -2.08,0.504 v 0 c -2.484,0 -4.488,-1.996 -4.524,-4.472 M 96,156 v -56 c 0,-2.212 1.788,-4 4,-4 v 0 c 2.212,0 4,1.788 4,4 v 0 56 c 0,2.212 -1.788,4 -4,4 v 0 c -2.212,0 -4,-1.788 -4,-4" /></g></g></g></g></g></svg>

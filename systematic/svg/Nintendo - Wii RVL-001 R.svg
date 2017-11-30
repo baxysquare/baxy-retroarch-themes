@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAANlBMVEX///8AAAD/////////
-///////////////////////////Xbm7OTk7KQEC4AAB7AACTAAD///+Q4EyaAAAADnRSTlMAAAk8
-XoBmRBF3TbPEzGIjcmYAAAABYktHRACIBR1IAAAACXBIWXMAAABIAAAASABGyWs+AAAAB3RJTUUH
-4QUaDjQr+4B9sQAAAl9JREFUeNrt2+Fu2jAYhtHaobjAtvb+r3biRycV0sSjX+vEPs8NOO+RcKRI
-PD1J0krpWp4Oz1vrWF7SQqEA5dR67Xwl/whAPrce+mnH/BMA292/JBAHUFqPfEwgDCBv9Pe/JhAG
-MLVe+KBAGMD23n91AmEA78dc/myrXysC4QCtB9/1e1mgf4AVgQEAlgVGAFgUGAJgSWAMgAWBQQA+
-FwgHeN1Ib5UC3QLUCvQLUCnQMUCdQDjA9aTr6a1vvbdKgW4BagX6BagU6BigTqBngCqBrgFqBPoG
-qBDoHGBNoHQPsCbw0j3AikDpH2BZ4DgAwKzAv6/lIwDMCgwFMCcwFsCMwGAA9wKjAdwJDAdwKzAe
-wI3AgAAfBUYE+PBcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+BrA+78VWo8FAABAG4Db
-g7YUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAABoPRYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwH
-wOtOAgAAwPddgnsIAAAAAAAAAAAAAAAAAAAACAS4tF5W1yUc4PC8yw5hAFPrKY81hQHkU+stj3TK
-YQCptB7zSCXFAaRz6zX/3zlFAuTdCZxzKEBKZVf3wKlcnzkUIOVpN2/Dw5RTKICkbvsLIZbQ1OrV
-GjgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDUtMjZUMTQ6NTI6NDMtMDY6MDDIA0ovAAAAJXRF
-WHRkYXRlOm1vZGlmeQAyMDE3LTA1LTI2VDE0OjUyOjQzLTA2OjAwuV7ykwAAACB0RVh0cGRmOkhp
-UmVzQm91bmRpbmdCb3gAMjU2eDI1NiswKzCrOba/AAAAFHRFWHRwZGY6VmVyc2lvbgBQREYtMS41
-DUCDV0wAAAAASUVORK5CYII=" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="M 0,256 H 256 V 0 H 0 Z" /></clipPath><clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path24"
+         d="M 36,252 H 220 V 4 H 36 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22" /><g
+             id="g34"><g
+               style="opacity:0.5"
+               id="g32"
+               clip-path="url(#clipPath26)"><g
+                 id="g30"
+                 transform="translate(187.1719,252)"><path
+                   id="path28"
+                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   d="m 0,0 h -141.172 c -5.514,0 -10,-4.486 -10,-10 v -228 c 0,-5.514 4.486,-10 10,-10 h 164 c 5.514,0 10,4.486 10,10 v 205.171 c 0,2.672 -1.04,5.183 -2.929,7.072 L 7.07,-2.929 C 5.182,-1.04 2.671,0 0,0" /></g></g></g></g><g
+           transform="translate(210,12)"
+           id="g36"><path
+             id="path38"
+             style="fill:#b80000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -164 c -1.104,0 -2,0.896 -2,2 v 228 c 0,1.104 0.896,2 2,2 h 141.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 1.414,208.586 C 1.789,208.211 2,207.702 2,207.171 V 2 C 2,0.896 1.104,0 0,0" /></g><g
+           transform="translate(52,32)"
+           id="g40"><path
+             id="path42"
+             style="fill:#7b0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 v 200 h 128 l 20,-20 V 0 Z m 152,0 v 180 l -24,24 H 0 -4 -8 v -4 h 4 v -48 h -4 v -4 h 4 V 0 h -4 v -4 h 156 4 8 v 4 z" /></g></g></g></g></svg>

@@ -1,34 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">  <image id="image0" width="256" height="256" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAflBMVEX////j5OXi5OXi4+Th
-4+Th4uPg4uPg4eLf4eLf4OHe4OHe3+Dd3+Dd3t/c3t/l5ufk5ufk5ebj5ebc3d7b3d7b3N3a3N3a
-29zZ29zZ2tvY2tvY2drX2drX2NnW2NnW19jV19jV1tfU1tfU1dbT1dbT1NXS1NXS09TR09T///+v
-jgaVAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAHdElN
-RQfhCBEPGThxR08HAAAEjUlEQVR42u3c2VbbMBSF4ROGFgp0oPMAFMqQ93/Cekiwk8i2nEg6R9p7
-38fR93PRrhXbIhzHcRzHcRzHcRzHcRzHcRzHcWm2WGifgAEYQNcPXoABwAMsFuAFGKDekfYptP1H
-x9rnUA1Q+aED1H7YAGs/bIFXP2iAzg9aoOfHDNDzQwbo+49PtE+jEaDvRwyw4QcMsOk/PdU+j2KA
-xg8coPXDBdj2wxXY8YMG6PxgAXb9YAUc/jfaZ0ofYNMPFcDlf/NW+1SJA+z4gQK4/UAFBvxIAZx+
-mABDfpgCg36UAIN+kADD/rMz7bMlCjDoBwkw7IcIMOY/P9c+XYKN+qECuPwAAcb9AAUm/DABhvzF
-B5jyn7/TPmGSACP+wgNM+wsv4OEvP8CE/0L7jNr+i5ILePnLDuDhLziAn7/gAp7+cgN4+i+1z6nt
-vyy1gLe/2AC+/kID+PuvrrTPGmUz/IUHmPYXGWCOv8gCs/wFBpjnv3qvfd5YAXz9pQbw9tsJ8KG3
-j596u75edNt8/uVk/Pc/H3+1z+2+NPva7lu7781+rPaz3q/Vftf7s97NTcgCmP6uAKp/nSBDfyB+
-WwDaXxUA94ug+/sJsvAH53cFYP2rAsD+pgC0v1oO/oh8Wb/6CNffKwDqfy0A65fu/Uf2/En4svn+
-F0T/9vs/8Py7739A84vr+Xddf2K+uJ9/RvIPP/+J4h97/g/DL+PPP6Xzq/Fl6vmX8v3Tzz+U7ve7
-/7tkv/je/xrHr21fFQD3z7n/rUz/vPufSvTL/PsfDvdri50FgP1NAWh/VQDcXy2VX9s5PHT/awFY
-/6oAsL9JENOvrfMZur8pAO2vCoD7q8Xwa5vmF0D21wWw/SLo/iZBKL+2ZN8A2H9/Ech//xwBEP7/
-H9mfaYHCfv/ZM0Duv38b8WdZIJv7nyMGsPz8R2b+YA/ApQwQ1J9hgLD+W22Ptv82twLB/ZkFCO/P
-rEAEf34BAvuzChDDf3unrZoXILw/rwAR/BkFiOO/+6vt8g8Qx59PgEj+bALE8mdTIJo/qwCefpEZ
-/kwCzPC3H/D2Z1Jgrr8q4OvPJsA8v4iv/17bFtK/+Sk//30OBfbyi/j5H7R1ofyuT/r4H+wX2Nvf
-FJj02w+wv78qMO03H8DDP/bxSb/5Aof5RSb9OQQ4wP9aYNBvPMCU3+ca437jBQL46wJj/n/axokA
-h/tFRv2mA4z651xoxP/4qK0cCxDILzLitxxg2D//WoN+wwFC+tsCLr/hAkH9dQG333iAXf/+F3T7
-zQYI7hdx+s0WCO/vFej7jQZw+g+/rMP/9KRtHQoQwd8W2PI/a1sHAkTx1wW2/SYD7PrDXXvbb7JA
-RL/Itt9igC1/6Mtv+g0GiOxfFVj7DRaI7W8KdH6jAVb+WN/R85sLkMIv8vxstkASf7/Ai7Z4N0Dr
-j/1Fa/9SW6zkXxV4WS5tFUjnbwrUfmMBkvHrNX5TAdL6RZbWCqTlrxNoqzX9xgoo+JsC2u4ugM7X
-2gnAcRzHcRzHcRzHcRzHcRzHcRzHcRzHcRzHcRzHcRzHcRzHcZyp/Qei2UyxgSGjjwAAACV0RVh0
-ZGF0ZTpjcmVhdGUAMjAxNy0wOC0xN1QxNToyNTo1Ni0wNjowMIo56EMAAAAldEVYdGRhdGU6bW9k
-aWZ5ADIwMTctMDgtMTdUMTU6MjU6NTYtMDY6MDD7ZFD/AAAAIHRFWHRwZGY6SGlSZXNCb3VuZGlu
-Z0JveAAyNTZ4MjU2KzArMKs5tr8AAAAUdEVYdHBkZjpWZXJzaW9uAFBERi0xLjUNQINXTAAAAABJ
-RU5ErkJggg==" />
-</svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 341.33334 341.33334"
+   height="256"
+   width="256"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="m 128,232 24,-68 h 72 L 164,116 188,48 128,92 68,48 92,116 32,164 h 72 z" /></clipPath><linearGradient
+       id="linearGradient28"
+       spreadMethod="pad"
+       gradientTransform="matrix(136,-136,-136,-136,60,192)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop24"
+         offset="0"
+         style="stop-opacity:1;stop-color:#e6e7e8" /><stop
+         id="stop26"
+         offset="1"
+         style="stop-opacity:1;stop-color:#d1d3d4" /></linearGradient></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,341.33333)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           id="g20"><g
+             id="g22"><path
+               id="path30"
+               style="fill:url(#linearGradient28);stroke:none"
+               d="m 128,232 24,-68 h 72 L 164,116 188,48 128,92 68,48 92,116 32,164 h 72 z" /></g></g></g></g></g></svg>
