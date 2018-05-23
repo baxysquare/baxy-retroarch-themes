@@ -27,4 +27,4 @@ Guidelines
  * The level of detail is expanded beyond the scope of the monochrome theme, but favors gradients instead of a flat design.
 
 ### Export
-The SVG and PNG files can be created using the ImageMagick Mogrify command.
+When converting from PDF source files, the SVG files can be created using [Alfrix’s conversion script] (https://forums.libretro.com/t/neoactive-retroactive-and-systematic-theme-support-and-feedback/9501/26) and PNG files are converted via the ImageMagick Mogrify command (mogrify -density 288 -resize 25% -format png *.pdf).
