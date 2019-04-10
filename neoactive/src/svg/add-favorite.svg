@@ -54,4 +54,9 @@
            id="g40"><path
              id="path42"
              style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 16,-48 h 48 l -40,-32 16,-48 -40,32 -40,-32 16,48 -40,32 h 48 z" /></g></g></g></g></svg>
+             d="m 0,0 16,-48 h 48 l -40,-32 16,-48 -40,32 -40,-32 16,48 -40,32 h 48 z" /></g><g
+           transform="translate(144,128)"
+           id="g44"><path
+             id="path46"
+             style="fill:#dddcde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -12 v 12 c 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 V 0 h -12 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 12 v -12 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 V -8 H 0 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4" /></g></g></g></g></svg>
