@@ -1,5 +1,5 @@
 # BAXY Icons for Libretro/Lakka/RetroArch
-The following files are the complete archive of the themes created for the Libretro project that end up in the Lakka OS and RetroArch App.
+The following files are the complete archive of the icon sets created for the Libretro project that end up in the Lakka OS and RetroArch App.
 
 ## BAXY Active Series
 * **RetroActive Icons** are the flagship design of the Active series. The set was designed to give users an alternative to Kivutar's Monochrome theme by providing a quality full-color theme for the XMB. The set was spun off of RetroActive Marked in order to provide a clean user experience. RetroActive icons avoid branding unless it's necessary for recognizability.
