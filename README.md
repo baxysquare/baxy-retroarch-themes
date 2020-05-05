@@ -4,9 +4,8 @@ The following files are the complete archive of the themes created for the Libre
 These are contributions and archived files that are used in other themes where I am not the primary maintainer. The icons can be found in the **contributions** directory.
 ## Unified By Theme Elements
 In an effort to  create a unified structure that will support all RetroArch UIs, directories and files have been restructured for simplicity and scalability.  The backgrounds, fonts, icons, palettes, scripts and sounds can be found in the **bytheme** directory.
-# BAXY Icons for Libretro/Lakka/RetroArch
+# BAXY Themes for Libretro/Lakka/RetroArch
 The following files are the complete archive of the icon sets created for the Libretro project that end up in the Lakka OS and RetroArch App.
-
 ## BAXY Active Series
 * **RetroActive Icons** are the flagship design of the Active series. The set was designed to give users an alternative to Kivutar's Monochrome theme by providing a quality full-color theme for the XMB. The set was spun off of RetroActive Marked in order to provide a clean user experience. RetroActive icons avoid branding unless it's necessary for recognizability.
 * **NeoActive Icons** apply a subtle grayscale gradient toward the white end of the spectrum. They are meant to blend the strengths of Kivutar's Monochrome theme and the RetroActive theme. 
@@ -16,5 +15,3 @@ The following files are the complete archive of the icon sets created for the Li
 
 ## Licenses
 * BAXY Themes are licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. 
-
-
