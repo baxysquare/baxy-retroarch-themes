@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="picoc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .e {
+        fill: #35495f;
+      }
+
+      .f {
+        fill: #223241;
+      }
+
+      .g {
+        fill: #1b80bb;
+        stroke: #2c3f51;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="b" data-name="cart1" class="e" d="M50.72,34.42v187.15c0,3.55,2.9,6.42,6.48,6.42h133.53l14.55-14.41V34.42c0-3.55-2.9-6.42-6.48-6.42H57.2c-3.58,0-6.48,2.88-6.48,6.42Z"/>
+  <path id="c" data-name="cart2" class="g" d="M187.5,53.37v114.83c0,1.98-1.59,3.58-3.55,3.58-37.3,0-74.61,0-111.91,0-1.96,0-3.55-1.6-3.55-3.58V53.37c0-1.98,1.59-3.58,3.55-3.58h111.91c1.96,0,3.55,1.6,3.55,3.58Z"/>
+  <rect id="d" data-name="cart3" class="f" x="67.5" y="185" width="121" height="31"/>
+</svg>

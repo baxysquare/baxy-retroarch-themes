@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="pico8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .k {
+        fill: #f29d22;
+      }
+
+      .l {
+        fill: #3495d2;
+      }
+
+      .m {
+        fill: #945aa3;
+      }
+
+      .n {
+        fill: #fee4a3;
+      }
+
+      .o {
+        fill: #eef0f1;
+      }
+
+      .p {
+        fill: #efc51c;
+      }
+
+      .q {
+        fill: #b88ec1;
+      }
+
+      .r {
+        fill: #49b86b;
+      }
+
+      .s {
+        fill: #eb4c37;
+      }
+    </style>
+  </defs>
+  <path id="b" data-name="mid" class="o" d="M39.2,128l88.8,88.8,88.8-88.8-88.8-88.8-88.8,88.8Z"/>
+  <g>
+    <path id="c" data-name="rect1" class="s" d="M105.8,61.4h44.4V17h-44.4v44.4Z"/>
+    <path id="d" data-name="rect2" class="n" d="M150.2,61.4h44.4v44.4h-44.4v-44.4Z"/>
+    <path id="e" data-name="rect3" class="q" d="M194.6,150.2h44.4v-44.4h-44.4v44.4Z"/>
+    <path id="f" data-name="rect4" class="m" d="M150.2,194.6h44.4v-44.4h-44.4v44.4Z"/>
+    <path id="g" data-name="rect5" class="l" d="M105.8,194.6h44.4v44.4h-44.4v-44.4Z"/>
+    <path id="h" data-name="rect6" class="r" d="M61.4,194.6h44.4v-44.4h-44.4v44.4Z"/>
+    <path id="i" data-name="rect7" class="p" d="M17,150.2h44.4v-44.4H17v44.4Z"/>
+    <path id="j" data-name="rect8" class="k" d="M61.4,61.4h44.4v44.4h-44.4v-44.4Z"/>
+  </g>
+</svg>
