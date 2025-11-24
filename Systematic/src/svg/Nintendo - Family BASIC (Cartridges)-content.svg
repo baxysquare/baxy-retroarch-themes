@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<path style="opacity:0.5;fill:#FFFFFF;" d="M240.443,4h-0.005H15.559c-2.125,0-4.162,0.845-5.663,2.349
-	c-1.501,1.504-2.342,3.543-2.337,5.667l0.439,216c0.009,4.412,3.588,7.984,8,7.984h8v8c0,4.418,3.582,8,8,8h192c4.418,0,8-3.582,8-8
-	v-8h8c4.412,0,7.991-3.572,8-7.984l0.439-215.799c0.002-0.072,0.003-0.145,0.003-0.218C248.441,7.582,244.861,4,240.443,4z"/>
-<polygon style="fill:#3D0000;" points="224,244 224,228 240,228 232,220 24,220 16,228 32,228 32,244 "/>
-<polygon style="fill:#B80000;" points="232,24 24,24 24,220 36,220 36,240 220,240 220,220 232,220 "/>
-<polygon style="fill:#FF0000;" points="15.561,12 24,24 232,24 240.439,12 "/>
-<polygon style="fill:#7B0000;" points="16,228 24,220 24,24 15.561,12 "/>
-<polygon style="fill:#7B0000;" points="232,220 240,228 240.439,12 232,24 "/>
-<path style="fill:#0A131A;" d="M224,156H32v12c0,2.209,1.791,4,4,4h184c2.209,0,4-1.791,4-4V156z"/>
-<path style="fill:#BFBFBF;" d="M224,160H32V80c0-2.209,1.791-4,4-4h184c2.209,0,4,1.791,4,4V160z"/>
-<rect x="76" y="56" style="fill:#BFBFBF;" width="24" height="16"/>
-<rect x="72" y="56" style="fill:#262626;" width="20" height="16"/>
-</svg>
+<svg enable-background="new 0 0 256 256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path d="m240.443 4h-.005-224.879c-2.125 0-4.162.845-5.663 2.349s-2.342 3.543-2.337 5.667l.439 216c.009 4.412 3.588 7.984 8 7.984h8v8c0 4.418 3.582 8 8 8h192c4.418 0 8-3.582 8-8v-8h8c4.412 0 7.991-3.572 8-7.984l.439-215.799c.002-.072.003-.145.003-.218.001-4.417-3.579-7.999-7.997-7.999z" fill="#fff" opacity=".5"/><path d="m224 244v-16h16l-8-8h-208l-8 8h16v16z" fill="#3d0000"/><path d="m232 24h-208v196h12v20h184v-20h12z" fill="#b80000"/><path d="m15.561 12 8.439 12h208l8.439-12z" fill="#f00"/><path d="m16 228 8-8v-196l-8.439-12z" fill="#7b0000"/><path d="m232 220 8 8 .439-216-8.439 12z" fill="#7b0000"/><path d="m224 156h-192v12c0 2.209 1.791 4 4 4h184c2.209 0 4-1.791 4-4z" fill="#0a131a"/><path d="m224 160h-192v-80c0-2.209 1.791-4 4-4h184c2.209 0 4 1.791 4 4z" fill="#bfbfbf"/><path d="m76 56h24v16h-24z" fill="#bfbfbf"/><path d="m72 56h20v16h-20z" fill="#262626"/></svg>
