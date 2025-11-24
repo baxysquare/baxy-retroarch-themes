@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path style="opacity:0.5;fill:#FFFFFF;" d="M211.58,8.845l-7.861-3.93c-0.024-0.012-0.048-0.024-0.071-0.035
+	C202.536,4.31,201.29,4,200.002,4h-144c-1.293,0-2.538,0.312-3.647,0.88c-0.023,0.011-0.047,0.023-0.07,0.035l-7.86,3.93
+	C41.714,10.2,40.002,12.97,40.002,16v87.962c-0.007,0.808-0.005,1.676,0,2.568l0,1.469v112v24c0,4.418,3.582,8,8,8h160
+	c4.418,0,8-3.582,8-8v-24V52v-4V32v-8v-8C216.002,12.97,214.29,10.2,211.58,8.845z"/>
+<rect x="48" y="220" style="fill:#666666;" width="160" height="24"/>
+<polygon style="fill:#999999;" points="208,220 200,220 200,12 208,24 "/>
+<path style="fill:#808080;" d="M204,116c0-56.224-1.716-102.019-3.861-103.93L208,16v228l-8-24C202.209,220,204,173.438,204,116z"/>
+<path style="fill:#999999;" d="M200,32V12H56c0,0-8,16-8,92c-0.011,1.231-0.006,2.573,0.013,4H48v112h8h144V100V48h8V32H200z"/>
+<rect x="64" y="20" style="fill:#333333;" width="128" height="124"/>
+<rect x="72" y="60" style="fill:#485915;" width="112" height="76"/>
+<circle style="fill:#B3B3B3;" cx="88" cy="172" r="24"/>
+<circle style="fill:#B3B3B3;" cx="148" cy="164" r="8"/>
+<circle style="fill:#B3B3B3;" cx="162" cy="186" r="10"/>
+<circle style="fill:#B3B3B3;" cx="182" cy="166" r="10"/>
+<circle style="fill:#B3B3B3;" cx="128" cy="180" r="8"/>
+<circle style="fill:#999999;" cx="88" cy="172" r="4"/>
+<circle style="fill:#999999;" cx="88" cy="152" r="2"/>
+<circle style="fill:#999999;" cx="88" cy="192" r="2"/>
+<circle style="fill:#999999;" cx="108" cy="172" r="2"/>
+<rect x="200" y="28" style="fill:#999999;" width="4" height="24"/>
+<circle style="fill:#999999;" cx="68" cy="172" r="2"/>
+<path style="fill:#808080;" d="M52,116c0-56.224,1.716-102.019,3.861-103.93L48,16v228l8-24C53.791,220,52,173.438,52,116z"/>
+<polygon style="fill:#666666;" points="204,52 208,52 208,48 200,48 "/>
+<polygon style="fill:#B3B3B3;" points="204,28 208,28 208,32 200,32 "/>
+</svg>

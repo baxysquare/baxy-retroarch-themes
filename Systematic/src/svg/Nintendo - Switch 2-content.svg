@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path style="opacity:0.5;fill:#FFFFFF;" d="M188,4H68C52.561,4,40,16.561,40,32v192c0,15.439,12.561,28,28,28h120
+	c15.439,0,28-12.561,28-28V32C216,16.561,203.439,4,188,4z"/>
+<rect x="64" y="72" style="fill:#FFFFFF;" width="132" height="116"/>
+<path style="fill:#FF0000;" d="M188,244H68c-11.046,0-20-8.954-20-20V32c0-11.046,8.954-20,20-20h120c11.046,0,20,8.954,20,20v192
+	C208,235.046,199.046,244,188,244z"/>
+<path style="fill:#B80000;" d="M192,28.085h-40v-3.064c0-0.564-0.895-1.021-2-1.021h-44c-1.105,0-2,0.457-2,1.021v3.064H64
+	c-2.209,0-4,1.829-4,4.085v179.745c0,2.256,1.791,4.085,4,4.085h128c2.209,0,4-1.829,4-4.085V32.17
+	C196,29.914,194.209,28.085,192,28.085z"/>
+<polygon style="fill:#B80000;" points="116,224 140,224 128,236 "/>
+<rect x="62" y="72" style="fill:#FFFFFF;" width="132" height="120"/>
+<path style="fill:#FF0000;" d="M190.846,30H65.154C63.412,30,62,31.412,62,33.154V52v18.846V76h132v-5.154V52V33.154
+	C194,31.412,192.588,30,190.846,30z"/>
+<path style="fill:#1A1A1A;" d="M62,188v6v2v14c0,2.209,1.791,4,4,4h124c2.209,0,4-1.791,4-4v-14v-2v-6H62z"/>
+</svg>
